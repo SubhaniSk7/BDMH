@@ -1,2 +1,4 @@
 # BDMH
-coursework
+BigData Mining in Healthcare
+
+Machine Learning in Biological Applications
